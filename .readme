@@ -1,0 +1,13 @@
+# Introduction
+
+This repository is a prototype for an AI solution developed for Rashid Rice Mills in Pakistan.
+
+The prototype aims to fill in some of the information gaps in the market. The 2 gaps are:
+
+- Supply of rice paddy for a year
+- Global and local trends around supply, demand and price of rice.
+
+## Get started
+
+- in one terminal run `./run_backend.sh` to start flask backend
+- in another terminal run `./run_frontend.sh` to start flask backend
